@@ -38,33 +38,7 @@ Navigation Components
 
 Project Structure
 
-Flipkart_Clone/
-│
-├── .gradle/                # Gradle build cache
-├── .idea/                  # Android Studio project settings
-│
-├── app/                    # Main application module
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/       # Java source code
-│   │   │   ├── res/        # Layouts, drawables, values
-│   │   │   └── AndroidManifest.xml
-│
-├── build/                  # Generated build files
-│   └── reports/
-│       └── problems/
-│           └── problems-report.html
-│
-├── gradle/                 # Gradle wrapper files
-│
-├── .gitignore              # Git ignore rules
-├── build.gradle            # Project build configuration
-├── gradle.properties       # Gradle properties
-├── gradlew                 # Gradle wrapper (Linux/Mac)
-├── gradlew.bat             # Gradle wrapper (Windows)
-├── local.properties        # Local SDK paths (not shared usually)
-├── settings.gradle         # Project modules configuration
-└── README.md               # Project documentation
+<img width="311" height="345" alt="image" src="https://github.com/user-attachments/assets/58b44841-e6fa-4eb7-a9fb-c169a47e6ec2" />
 
 
 
